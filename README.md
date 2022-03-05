@@ -1,4 +1,4 @@
-# ljubljana-street-trees
+# Ljubljana-street-trees
 ## Inventory of public street trees in Ljubljana, Slovenia.
 
 The public company SNAGA in Ljubljana runs an inventory of trees in public domain for management purposes and they provided the baseline data for the analysis.
